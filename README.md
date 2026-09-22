@@ -37,10 +37,6 @@ Python · TypeScript · JavaScript · SQL · React · Next.js · FastAPI · Swif
 **Data & Infrastructure**
 Kafka · Redis · RabbitMQ · PostgreSQL · Supabase · Docker · AWS · Vercel · PM2 · Nginx
 
-## How I Work
-
-I do not treat a local build, HTTP 200 response, or a running process as completion. I validate the full path across the user interface, API, worker or scheduler, persisted data, runtime identity, and deployed environment.
-
 ---
 
 *Open to platform, backend, data, AI, and transaction-system engineering opportunities.*
